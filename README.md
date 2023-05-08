@@ -1,11 +1,5 @@
 # BCR - Car Management API
 
-Api untuk management layanan web Car Rental. Api ini adalah bagian dari project individu kursus fullstack development yang di selenggarakan oleh Binar Academy.
-
-Pada aplikasi ini user di bagi menjadi 3 Role, yaitu superadmin, admin dan member.
-
-Default account untuk superadmin bisa di temukan [disini](#akun-superadmin). Akun superadmin juga bisa di modifikasi dengan mengikuti instruksi di halaman ini.
-
 ## Setup Server
 
     npm install
