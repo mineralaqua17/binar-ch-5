@@ -1,4 +1,4 @@
-# BCR - Car Management API (OpenAPI 3.0)
+# BCR - Car Management API
 
 Api untuk management layanan web Car Rental. Api ini adalah bagian dari project individu kursus fullstack development yang di selenggarakan oleh Binar Academy.
 
